@@ -1,0 +1,38 @@
+﻿$PBExportHeader$p_pbtutor_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:pbtutor.exe,,0,0,1
+CMP:0,0,0,2,0,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1,0,0,1
+PVN:1,0,0,1
+FVS:1,0,0,1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:pbtutor.pbl,,1
+PBD:tutor_pb.pbl,,1
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_pbtutor_toolbars,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_master_detail_ancestor,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_products,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,n_pbtutor_sheetmanager,u
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,n_pbtutor_connectservice,u
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,d_customer,d
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,exc_bad_entry,u
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,exc_no_rows,u
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\tutor_pb.pbl,d_prodlist,d
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,m_pbtutor_frame,m
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,m_pbtutor_sheet,m
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\tutor_pb.pbl,d_product,d
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\tutor_pb.pbl,u_dwstandard,u
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_pbtutor_frame,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,m_my_sheet,m
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,pbtutor,a
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_welcome,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,d_custlist,d
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_customers,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_cust_pct,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_pbtutor_basesheet,w
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,exc_low_number,u
+OBJ:C:\Users\appeon\Desktop\tutor_pb\SolveIt\pbtutor.pbl,w_pbtutor_about,w
